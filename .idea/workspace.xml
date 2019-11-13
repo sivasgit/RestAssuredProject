@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc67080a-e11e-4b85-8f2b-37bad8f34af3" name="Default Changelist" comment="" />
+    <list default="true" id="dc67080a-e11e-4b85-8f2b-37bad8f34af3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/RootSettings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/XML_ResponseValidation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Json_ResponseValidation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Json_ResponseValidation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Json_ResponseValidation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Json_ResponseValidation.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +50,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.RootSettings.root">
     <configuration name="Json_ResponseValidation.testStatus" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="RestAssuredProject" />
       <option name="PACKAGE_NAME" value="" />
@@ -57,8 +63,60 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RootSettings.root" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RootSettings" />
+      <option name="METHOD_NAME" value="root" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XML_ResponseValidation.testMultipleContent" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="XML_ResponseValidation" />
+      <option name="METHOD_NAME" value="testMultipleContent" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XML_ResponseValidation.testSingleContent" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="XML_ResponseValidation" />
+      <option name="METHOD_NAME" value="testSingleContent" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XML_ResponseValidation.testUsingXpath" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="XML_ResponseValidation" />
+      <option name="METHOD_NAME" value="testUsingXpath" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.RootSettings.root" />
+        <item itemvalue="TestNG.XML_ResponseValidation.testUsingXpath" />
+        <item itemvalue="TestNG.XML_ResponseValidation.testMultipleContent" />
+        <item itemvalue="TestNG.XML_ResponseValidation.testSingleContent" />
         <item itemvalue="TestNG.Json_ResponseValidation.testStatus" />
       </list>
     </recent_temporary>
@@ -81,38 +139,66 @@
       <option name="project" value="LOCAL" />
       <updated>1573639550570</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="restjson">
+      <created>1573639836147</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1573639836147</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="rest" />
-    <option name="LAST_COMMIT_MESSAGE" value="rest" />
+    <MESSAGE value="restjson" />
+    <option name="LAST_COMMIT_MESSAGE" value="restjson" />
   </component>
   <component name="WindowStateProjectService">
     <state x="485" y="0" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1573639576704">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="485" y="0" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1366.728@0.0.1366.728" timestamp="1573639576704" />
-    <state width="1278" height="152" key="GridCell.Tab.0.bottom" timestamp="1573639541092">
+    <state x="439" y="227" key="Github.ShareDialog" timestamp="1573639957168">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1278" height="152" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1573639541092" />
-    <state width="1278" height="152" key="GridCell.Tab.0.center" timestamp="1573639541091">
+    <state x="439" y="227" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1573639957168" />
+    <state width="1278" height="152" key="GridCell.Tab.0.bottom" timestamp="1573643406637">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1278" height="152" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1573639541091" />
-    <state width="1278" height="152" key="GridCell.Tab.0.left" timestamp="1573639541091">
+    <state width="1278" height="152" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1573643406637" />
+    <state width="1278" height="152" key="GridCell.Tab.0.center" timestamp="1573643406636">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1278" height="152" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1573639541091" />
-    <state width="1278" height="152" key="GridCell.Tab.0.right" timestamp="1573639541092">
+    <state width="1278" height="152" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1573643406636" />
+    <state width="1278" height="152" key="GridCell.Tab.0.left" timestamp="1573643406636">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1278" height="152" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1573639541092" />
-    <state x="175" y="27" key="Vcs.Push.Dialog.v2" timestamp="1573639821617">
+    <state width="1278" height="152" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1573643406636" />
+    <state width="1278" height="152" key="GridCell.Tab.0.right" timestamp="1573643406637">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="175" y="27" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1573639821617" />
+    <state width="1278" height="152" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1573643406637" />
+    <state width="1278" height="191" key="GridCell.Tab.1.bottom" timestamp="1573641603621">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1278" height="191" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1573641603621" />
+    <state width="1278" height="191" key="GridCell.Tab.1.center" timestamp="1573641603620">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1278" height="191" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1573641603620" />
+    <state width="1278" height="191" key="GridCell.Tab.1.left" timestamp="1573641603620">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1278" height="191" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1573641603620" />
+    <state width="1278" height="191" key="GridCell.Tab.1.right" timestamp="1573641603621">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1278" height="191" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1573641603621" />
+    <state x="175" y="27" key="Vcs.Push.Dialog.v2" timestamp="1573643441936">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="175" y="27" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1573643441936" />
     <state x="328" y="234" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate" timestamp="1573639668118">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
