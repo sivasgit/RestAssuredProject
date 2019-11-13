@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc67080a-e11e-4b85-8f2b-37bad8f34af3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Authentication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/GoogleMapsAPI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +47,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="TestNG.Authentication.basicAuthentic">
+  <component name="RunManager" selected="TestNG.GoogleMapsAPI.captureSingleAndMultipleHeaders">
     <configuration name="Authentication.basicAuthentic" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="RestAssuredProject" />
       <option name="PACKAGE_NAME" value="" />
@@ -60,35 +60,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GoogleMapsAPI.captureSingleAndMultipleHeaders" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GoogleMapsAPI" />
+      <option name="METHOD_NAME" value="captureSingleAndMultipleHeaders" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoogleMapsAPI.getLocations" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GoogleMapsAPI" />
+      <option name="METHOD_NAME" value="getLocations" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RootSettings.root" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="RestAssuredProject" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="RootSettings" />
       <option name="METHOD_NAME" value="root" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="XML_ResponseValidation.testMultipleContent" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="RestAssuredProject" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="XML_ResponseValidation" />
-      <option name="METHOD_NAME" value="testMultipleContent" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="XML_ResponseValidation.testSingleContent" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="RestAssuredProject" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="XML_ResponseValidation" />
-      <option name="METHOD_NAME" value="testSingleContent" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.GoogleMapsAPI.captureSingleAndMultipleHeaders" />
+        <item itemvalue="TestNG.GoogleMapsAPI.getLocations" />
         <item itemvalue="TestNG.Authentication.basicAuthentic" />
         <item itemvalue="TestNG.RootSettings.root" />
         <item itemvalue="TestNG.XML_ResponseValidation.testUsingXpath" />
-        <item itemvalue="TestNG.XML_ResponseValidation.testMultipleContent" />
-        <item itemvalue="TestNG.XML_ResponseValidation.testSingleContent" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573643459376</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="restjson">
+      <created>1573644449883</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1573644449883</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -167,22 +174,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="439" y="227" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1573639957168" />
-    <state width="1278" height="152" key="GridCell.Tab.0.bottom" timestamp="1573644372406">
+    <state width="1278" height="152" key="GridCell.Tab.0.bottom" timestamp="1573645101540">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1278" height="152" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1573644372406" />
-    <state width="1278" height="152" key="GridCell.Tab.0.center" timestamp="1573644372406">
+    <state width="1278" height="152" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1573645101540" />
+    <state width="1278" height="152" key="GridCell.Tab.0.center" timestamp="1573645101540">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1278" height="152" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1573644372406" />
-    <state width="1278" height="152" key="GridCell.Tab.0.left" timestamp="1573644372406">
+    <state width="1278" height="152" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1573645101540" />
+    <state width="1278" height="152" key="GridCell.Tab.0.left" timestamp="1573645101540">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1278" height="152" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1573644372406" />
-    <state width="1278" height="152" key="GridCell.Tab.0.right" timestamp="1573644372406">
+    <state width="1278" height="152" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1573645101540" />
+    <state width="1278" height="152" key="GridCell.Tab.0.right" timestamp="1573645101540">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1278" height="152" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1573644372406" />
+    <state width="1278" height="152" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1573645101540" />
     <state width="1278" height="191" key="GridCell.Tab.1.bottom" timestamp="1573641603621">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -199,10 +206,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1278" height="191" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1573641603621" />
-    <state x="175" y="27" key="Vcs.Push.Dialog.v2" timestamp="1573644437082">
+    <state x="175" y="27" key="Vcs.Push.Dialog.v2" timestamp="1573645199189">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="175" y="27" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1573644437082" />
+    <state x="175" y="27" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1573645199189" />
     <state x="328" y="234" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate" timestamp="1573639668118">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
